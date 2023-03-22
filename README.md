@@ -30,3 +30,6 @@ Open http://localhost:3000/ in your browser.
 
 # License
 Distributed under the MIT License.
+
+# Author
+Sheema Shamil.
