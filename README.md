@@ -11,6 +11,7 @@ Ruby: 2.7.4 Rails: 7.0.4
 
 # Setup
 $ git@github.com:https://https://github.com/sheema-shamil/code-challenge-pizzas
+
 $ cd Phase-4-Code-Challenge-Pizzas
 Install gems with:
 
