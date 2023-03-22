@@ -1,3 +1,4 @@
+# Pizzas
 # The project was built with:
 Ruby v3.1.4
 Ruby on Rails v7.0.4
